@@ -29,8 +29,11 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 **Procedure**
 
 1.Type the program in Quartus software.
+
 2.Generate the RTL schematic and save the logic diagram.
+
 3.Create nodes for inputs and outputs to generate the timing diagram.
+
 4.For different input combinations generate the timing diagram.
 
 **PROGRAM**
