@@ -28,18 +28,14 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **Procedure**
 
-1.
-Type the program in Quartus software.
-2.
-
-3.
-Generate the RTL schematic and save the logic diagram.
-4.
-Create nodes for inputs and outputs to generate the timing diagram.
-5.
-For different input combinations generate the timing diagram.
+1.Type the program in Quartus software.
+2.Generate the RTL schematic and save the logic diagram.
+3.Create nodes for inputs and outputs to generate the timing diagram.
+4.For different input combinations generate the timing diagram.
 
 **PROGRAM**
+
+Developed by: SUGESHAN.S Register number: 24007573
 
 ```module ex11(out,clk,rst);
 input clk,rst;
@@ -57,16 +53,23 @@ endmodule
 
 
 **RTL LOGIC UP COUNTER**
+
+
 ![Screenshot 2025-01-28 143558](https://github.com/user-attachments/assets/c5752b84-f7df-4e44-9d52-131528c7a4b4)
 
 
 **TIMING DIAGRAM FOR IP COUNTER**
+
+
 ![Screenshot 2025-01-28 144007](https://github.com/user-attachments/assets/ea942abf-1cca-438c-82e5-1352fe6abe0b)
 
 
 **TRUTH TABLE**
+
+
 ![Screenshot 2025-01-28 144408](https://github.com/user-attachments/assets/1d45f793-bfcc-49cf-9d43-bc962c416b1a)
 
 
 **RESULTS**
+
 Thus 4 bit synchronous up counter is implemented and functionality is validated
